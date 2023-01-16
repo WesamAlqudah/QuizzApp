@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">AndroidQuiz</string>
+    <string name="text_start">START</string>
+    <string name="text_home">Home</string>
+    <string name="text_result_analysis">RESULT ANALYSIS</string>
+    <string name="text_play_again">PLAY AGAIN</string>
+    <string name="text_congratulations">Congratulations!</string>
+    <string name="text_next">NEXT</string>
+    <string name="hint_question">Question</string>
+    <string name="hint_option_a">Option A</string>
+    <string name="text_option_b">Option B</string>
+    <string name="text_option_c">Option C</string>
+    <string name="text_option_d">Option D</string>
+    <string name="text_loading">Loading...</string>
+    <string name="text_empty_database">There isn\'t data yet!</string>
+    <string name="hint_score">Score: 5/10</string>
+    <string name="miu">Maharishi International University</string>
+    <string name="result_1">
+        1. Choose the correct option related to Android.
+        Correct answer:an operating system
+    </string>
+    
+    <string name="result_2">
+        2. Under which of the following Android is licensed??
+        Correct answer -  Apache/MIT.
+    </string>
+    
+    <string name="result_3">
+        3. For which of the following Android is mainly developed?
+        Correct answer - Mobile devices
+    </string>
+    
+    <string name="result_4">
+        4. Which of the following is the first mobile phone released that ran the Android OS?
+        Correct answer - T - Mobile G1
+    </string>
+    
+    <string name="result_5">
+        5. Which of the following virtual machine is used by the Android operating system?
+        Correct answer - Dalvik virtual machine
+    </string>
+    
+    <string name="result_6">
+        6. APK stands for ?
+        Correct answer - Java
+    </string>
+    
+    <string name="result_7">
+        7. The full form of APK is
+        Correct answer - Android Package Kit
+    </string>
+    
+    <string name="result_8">
+        8. What does API stand for?
+        Correct answer - Application Programming Interface.
+    </string>
+    
+    <string name="result_9">
+        9. Which of the following converts Java byte code into Dalvik byte code?
+        Correct answer - Dex compiler
+    </string>
+    
+    <string name="result_10">
+        10. How can we stop the services in android?
+        Correct answer - By using the stopSelf() and stopService() method.
+    </string>
+    
+    <string name="result_11">
+        11. What is an activity in android?
+        Correct answer - A single screen in an application with supporting java code.
+    </string>
+    
+    <string name="result_12">
+        12. How can we kill an activity in android?
+        Correct answer - Both (a) and (b)
+    </string>
+    
+    <string name="result_13">
+        13. ADB stands for -
+        Correct answer - Android debug bridge.
+    </string>
+    
+    <string name="result_14">
+        14. On which of the following, developers can test the application, during developing the android applications??
+        Correct answer - All of the above.
+    </string>
+    
+    <string name="result_15">
+        15. Activity in Android can be killed using?
+        Correct answer - D) Activity in Android can be killed using both finishActivity (int requestCode) and finish() method.
+    </string>
+
+</resources>
